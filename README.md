@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerofortycik
 - 👀 I’m interested in finding what I enjoy most in coding, networking, and/or cybersecurity and advancing my knowledge and understanding in these and other areas.
-- 🌱 I’m currently learning linux, pyton...Utilizing the HacktheBox Academy, freeCodeCamp and The Odin Project. I'm a complete noob, attempting to learn.
+- 🌱 I’m currently learning linux, Python...Utilizing HacktheBox Academy, freeCodeCamp and The Odin Project. I'm a complete noob, attempting to learn.
 - 💞️ I’m looking to collaborate on ... Nothing atm, as I am just starting on this journey.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
